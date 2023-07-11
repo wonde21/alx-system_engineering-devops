@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf "%.2f" 12.3121)
+echo $(printf "%.2f" $NUM)
